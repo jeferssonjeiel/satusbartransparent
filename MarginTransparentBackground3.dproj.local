@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/22 20:01:46.000.722,=D:\Documentos\Embarcadero Projects\10.3 Apps\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 20:02:40.000.425,D:\Documentos\Embarcadero Projects\10.3 Apps\Unit1.fmx=D:\Documentos\Embarcadero Projects\10.3 Apps\MarginTransparentBackground3\untApp.fmx</Transaction>
+    <Transaction>2019/06/22 20:02:40.000.425,D:\Documentos\Embarcadero Projects\10.3 Apps\Unit1.pas=D:\Documentos\Embarcadero Projects\10.3 Apps\MarginTransparentBackground3\untApp.pas</Transaction>
+    <Transaction>2019/06/22 20:02:45.000.872,D:\Documentos\Embarcadero Projects\10.3 Apps\Project1.dproj=D:\Documentos\Embarcadero Projects\10.3 Apps\MarginTransparentBackground3\MarginTransparentBackground3.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="4795039d"/>
+	</ActiveMobileDevice>
+</BorlandProject>
